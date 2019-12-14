@@ -1,5 +1,5 @@
 # vCard - mobile application to simplify sharing your contact with new friends
-<img align="left" src=https://github.com/yerlansharipov/vcard/blob/master/pictures/market_summary.png width=400/>
+<img align="left" src=https://github.com/yerlansharipov/vcard/blob/master/back.png width=400/>
 
 
 
