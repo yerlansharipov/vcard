@@ -8,16 +8,11 @@ vCard is a prototype of application for sharing your ingformation fast and easy.
 <br />
 Provided image has a test contact with name, surname and email. So, go ahead and try to scan
 
-
-
 ## How to Use
 - Enter your personal information
 - Press "Generate vcard" button
 - Show it to your new friend to scant QR code (Every native camera app has capability of reading QR codes)
 - QR code contains infromation in .vcf format. Therefore it will imported directly to contacts
-
-<br />
-<br />
 
 ## Lessons Learned
 - Programming in Swift
