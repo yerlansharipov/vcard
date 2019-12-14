@@ -13,6 +13,7 @@ Provided image has a test contact with name, surname and email. So, go ahead and
 - Press "Generate vcard" button
 - Show it to your new friend to scant QR code (Every native camera app has capability of reading QR codes)
 - QR code contains infromation in .vcf format. Therefore it will imported directly to contacts
+- If you reboot the app previous information will be saved. Therefore, initial QR code will be generated on launch
 
 ## Lessons Learned
 - Programming in Swift
