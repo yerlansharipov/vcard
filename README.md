@@ -1,5 +1,5 @@
 # vCard
-<img align="left" src=https://github.com/yerlansharipov/vcard/blob/master/meal3/back.png width=300/>
+<img align="right" src=https://github.com/yerlansharipov/vcard/blob/master/meal3/back.png width=300/>
 Don't you tired of annoying misspelling and mishearing when you are trying to share your contact with a new friend? 
 <br />
 <br />
