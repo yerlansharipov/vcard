@@ -18,6 +18,7 @@ Provided image has a test contact with name, surname and email. So, go ahead and
 
 <br />
 <br />
+
 ## Lessons Learned
 - Programming in Swift
 - Create event triggered actions
