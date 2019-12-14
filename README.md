@@ -16,7 +16,8 @@ Provided image has a test contact with name, surname and email. So, go ahead and
 3) Show it to your new friend to scant QR code (Every native camera app has capability of reading QR codes)
 4) QR code contains infromation in .vcf format. Therefore it will imported directly to contacts
 
-
+<br />
+<br />
 ## Lessons Learned
 - Programming in Swift
 - Create event triggered actions
