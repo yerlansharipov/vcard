@@ -26,10 +26,13 @@ Provided image has a test contact with name, surname and email. So, go ahead and
 - allow user to share personal information selectively. For instance, user might want to share only instagram account and name. 
 
 
+<br />
+<br />
+<br />
+<br />
+# Camparision of React vs iOS and Android application environments
 
-## Camparision of React vs iOS and Android application environments
-
-# React 
+## React 
 Programming Language: JavaScript JSX
 <br />
 React provides a framework to create cross-platform mobile applicaitons. It was created by Facebook and gained popularity. Popular mobile application such as Facebook, Instagram, Uber were rewritten in React Ntaive.
@@ -39,7 +42,7 @@ React Native enables a single JavaScript codebase for 2 different platforms. Thi
 Using React Native will greatly speed up the development and maintenance processes.
 
 
-# iOS and Android
+## iOS and Android
 Programming Language for iOS: Objective-C, Swift
 Programming Language for Android: Java
 <br />
