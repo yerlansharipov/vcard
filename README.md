@@ -1,7 +1,9 @@
 # vCard
 <img align="left" src=https://github.com/yerlansharipov/vcard/blob/master/meal3/back.png width=300/>
-Don't you tired of annoying misspelling and mishearing when you are trying to share your contact with a new friend?
+Don't you tired of annoying misspelling and mishearing when you are trying to share your contact with a new friend? 
+<br />
 vCard is a prototype of application for sharing your ingformation fast and easy. Information might include anything from your name to social media account(facebook, instagram and etc).
+<br />
 Provided image has a test contact with name, surname and email. So, go ahead and try to scan
 
 
