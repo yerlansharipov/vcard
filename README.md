@@ -30,6 +30,7 @@ Provided image has a test contact with name, surname and email. So, go ahead and
 <br />
 <br />
 <br />
+
 # Camparision of React vs iOS and Android application environments
 
 ## React 
